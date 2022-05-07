@@ -1,3 +1,7 @@
 build/*
 ikfastpy.cpp
 ikfastpy.so
+**/*.egg_info
+**/*.so
+**/
+**/__pycache__
